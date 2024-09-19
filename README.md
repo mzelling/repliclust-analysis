@@ -8,7 +8,7 @@
               
 ## Description
 
-This repo provides code and data used in the **repliclust** paper.
+This repo provides code and data for reproducing results in the **repliclust** paper.
 
 ## Citation
 
